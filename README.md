@@ -2,7 +2,7 @@
 
 I’m a software engineer primarily focused on backend development, machine learning, and MLOps.
 
-### :hammer: Open Source Contribution(s)
+### :hammer: Open Source Contributions
 
 - [pytest/pytest](https://github.com/pytest-dev/pytest) [[PR #9921](https://github.com/pytest-dev/pytest/pull/9921)] Fixed a bug related to recursive checking for floating-point equality
 
