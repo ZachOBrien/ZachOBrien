@@ -4,4 +4,6 @@ I’m a software engineer primarily focused on backend development, machine lear
 
 ### :hammer: Open Source Contribution(s)
 
-- [[Bug report #9917](https://github.com/pytest-dev/pytest/issues/9917) / [My fix #9921](https://github.com/pytest-dev/pytest/pull/9921)] Fixed a bug related to recursive checking for floating-point equality in PyTest, a popular unit testing library for Python. 
+- [pytest/pytest](https://github.com/pytest-dev/pytest) [[PR #9921](https://github.com/pytest-dev/pytest/pull/9921)] Fixed a bug related to recursive checking for floating-point equality
+
+- [racket/racket](https://github.com/racket/racket) [[PR #4474](https://github.com/racket/racket/pull/4474)] Documented usage of `contract-out` in the Racket language
